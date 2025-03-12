@@ -1,3 +1,12 @@
+/*directions:
+Create a node class that stores integers and use it in a basic linked list class that does the following:
+
+Create a linked list that holds n consecutive numbers, n is provided by the user through a text input.
+For this part of the exercise, you need to create basic functions like makenode, init, findTail, showList, etc.
+Let the user insert a node.  They can provide a value, and where the node should be inserted.
+Let the user delete an existing node from the linked list.
+*/
+    
 import java.util.Scanner; //functions prompts switch bye
 class LinkedListStuff {
     Node front;
